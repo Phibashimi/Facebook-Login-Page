@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(88, 88, 233);
+    max-width:500px;
+    margin:50px auto;
+    height:300px;
+    padding:235px;
+    text-align:center;
+}
+
+
+button{
+    background-color:cornflowerblue;
+    border:none;
+    width:425px;
+    height:40px;
+}
+
+input{
+    Width:425px;
+    height:40px;
+}
